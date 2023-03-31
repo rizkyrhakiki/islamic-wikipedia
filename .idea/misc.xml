@@ -3,13 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout-ldpi/activity_main.xml" value="0.7245989304812834" />
+        <entry key="app/src/main/res/layout-ldpi/quran_listview_item.xml" value="0.7245989304812834" />
+        <entry key="app/src/main/res/layout-mdpi/activity_main.xml" value="0.31733021077283374" />
+        <entry key="app/src/main/res/layout-sw340dp/quran_listview_item.xml" value="0.13728470111448834" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.13728470111448834" />
-        <entry key="app/src/main/res/layout/activity_azkar.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_azkar.xml" value="0.18787115379154068" />
         <entry key="app/src/main/res/layout/activity_azkars.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_azkars_time_settings.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_azkars_time_settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_category.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3168082891698777" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/ads_layout.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/azkar_items.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/menu_azkar.xml" value="0.13728470111448834" />
         <entry key="app/src/main/res/layout/menu_main.xml" value="0.1606208615155576" />
+        <entry key="app/src/main/res/layout/quran_listview_item.xml" value="0.2086945589115021" />
+        <entry key="app/src/main/res/layout/quranplayer.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/toast.xml" value="0.6217998335132201" />
+        <entry key="app/src/main/res/layout/widget_layout.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/menu/menu_azkar.xml" value="0.1925925925925926" />
+        <entry key="app/src/main/res/menu/menu_mainactvity.xml" value="0.1925925925925926" />
+        <entry key="app/src/main/res/menu/menu_occasion.xml" value="0.1925925925925926" />
       </map>
     </option>
   </component>
