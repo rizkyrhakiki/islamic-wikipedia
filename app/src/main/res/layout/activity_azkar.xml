@@ -9,9 +9,6 @@
     android:gravity="center"
     tools:context="ru.ironcodes.islamicwikipedia.AzkarsActivity"   >
 
-
-
-
     <LinearLayout
         android:orientation= "vertical"
         android:layout_width="match_parent"
